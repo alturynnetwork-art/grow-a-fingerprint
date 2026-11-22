@@ -24,10 +24,15 @@ SEED        = 0          # <-- replace with a number that is yours alone:
                          #     a date, a day that mattered, a private count.
 CORE_A      = (0.47, 0.42)   # <-- initiation site one (x, y in pad coords)
 CORE_B      = (0.55, 0.52)   # <-- initiation site two — or set to None
-                             #     for a single-centred whorl. Two centres
-                             #     make the waves collide; one makes a
-                             #     spiral around a single heart. Both are
-                             #     true fingerprints. Choose what is yours.
+                             #     for the SOLO road: one centre, one
+                             #     heart, every wave rising from a single
+                             #     source — you. A single-centred whorl is
+                             #     one of nature's standard fingerprints,
+                             #     found on countless human hands. Solo is
+                             #     a form, not a lack. Two centres make
+                             #     the waves collide; one makes a spiral
+                             #     around a single heart. Both are true
+                             #     fingerprints. Choose what is yours.
 RIDGE_PITCH = 12.5       # ridge spacing in px — finer or bolder, your call
 TWIST       = 1.0        # whole turns of spiral across the pad (use whole
                          # numbers so the seam vanishes)
